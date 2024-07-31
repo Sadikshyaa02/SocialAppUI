@@ -1,0 +1,15 @@
+/* Sidebar friend item */
+.sidebarFriend {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center items vertically */
+    margin-bottom: 15px; /* Add space between items */
+}
+
+/* Sidebar friend image */
+.sidebarFriendImg {
+    width: 32px; /* Set width of the image */
+    height: 32px; /* Set height of the image */
+    border-radius: 50%; /* Make the image circular */
+    object-fit: cover; /* Cover the image area */
+    margin-right: 10px; /* Add space between image and text */
+}
